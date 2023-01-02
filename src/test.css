@@ -1,0 +1,11 @@
+.main-bg {
+  height: 300px;
+  background: url(../public/bg.png) no-repeat center/cover;
+}
+
+.row {
+  text-align: center;
+}
+.row img {
+  width: 100%;
+}/*# sourceMappingURL=test.css.map */
